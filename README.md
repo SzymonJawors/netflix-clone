@@ -6,7 +6,8 @@ netflix-clone-eight-beta-40.vercel.app
 # Netflix clone
 
   
-> Aplikacja stworzona w React i Vite, jest to klon Netflixa oczywiście nie ma wszystkich funkcji jak prawdziwa aplikacja, lecz posiada: rejestrowanie, logowanie, oraz mozliwość kliknięcia w film po czym wyświetli się jego trailer. Logowanie i rejestracja - wszystkie dane przechodzą do bazy danych Firebase (nie trzeba podawać oczywiście prawdziwych maili, nie jest to w zaden sposób weryfikowane, lecz przy logowaniu trzeba już podać maila którego się wybrało i hasło). Strona jest postawiona na Vercelu więc łatwo można sprawdzić jak działa bez pobierania plików. Tutaj link: [Otwórz wersję Vercel](https://netflix-clone-eight-beta-40.vercel.app)
+> Aplikacja stworzona w React i Vite, jest to klon Netflixa oczywiście nie ma wszystkich funkcji jak prawdziwa aplikacja, lecz posiada: rejestrowanie, logowanie, oraz mozliwość kliknięcia w film po czym wyświetli się jego trailer. Logowanie i rejestracja - wszystkie dane przechodzą do bazy danych Firebase (nie trzeba podawać oczywiście prawdziwych maili, nie jest to w zaden sposób weryfikowane, lecz przy logowaniu trzeba już podać maila którego się wybrało i hasło). Strona jest postawiona na Vercelu więc łatwo można sprawdzić jak działa bez pobierania plików. Tutaj link: [KLIK](https://netflix-clone-eight-beta-40.vercel.app "Netflix Clone na Vercel")
+
 
 ---
 ## Jak chcesz na prawdę pobawić się z projektem to instalacja poniżej. Uprzedzam trzeba posiadać własny klucz API ze strony themoviedb.org, oraz stworzyć własny projekt na Firebase, następnie wszystkie klucze trzeba wstawić do pliku .env
