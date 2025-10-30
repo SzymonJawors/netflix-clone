@@ -1,5 +1,3 @@
-netflix-clone-eight-beta-40.vercel.app
-
 # 🇵🇱
 
 
@@ -32,31 +30,34 @@ npm run dev
 # 🇬🇧
 
 
-#  AI CHAT CLONE
+# Netflix Clone
 
-> A React-based application that allows you to chat with an AI bot.  
-> It uses the **Gemini API**, so you’ll need your own API key for it to work.  
-> Some features such as **Home**, **Save**, and **Pro** are **non-functional** and included for **visual purposes only**.
+> An application built with React and Vite. It's a Netflix clone—of course, it doesn't have all the features of the real app, but it includes: user registration, login, and the ability to click on a movie to watch its trailer.  
+> Registration and login data are stored in Firebase (you don't need to provide real emails; they are not verified in any way, but during login you must use the email and password you registered with).  
+> The app is hosted on Vercel, so you can easily check it out without downloading any files. Here’s the link: [CLICK HERE](https://netflix-clone-eight-beta-40.vercel.app "Netflix Clone on Vercel")
 
 ---
 
-##  Getting Started
+## If you want to really play around with the project, follow the installation steps below.  
+Note: You’ll need your own API key from [The Movie Database (TMDb)](https://www.themoviedb.org/), and you need to create your own Firebase project. Then you must insert all keys into the `.env` file.
 
-### 1. Clone the Repository
+## Running the Project
+
+### 1. Clone the repository
 ```bash
 git clone https://github.com/SzymonJawors/netflix-clone.git
 cd netflix-clone
 ```
+### 2. Install 
 
-### 2. Install
 ```bash
 npm install
 ```
-
 ### 3. Run
 ```bash
 npm run dev
 ```
+
 
 
 <img width="1865" height="985" alt="n3" src="https://github.com/user-attachments/assets/0d3df7ab-4829-460d-a654-9da47d034874" />
